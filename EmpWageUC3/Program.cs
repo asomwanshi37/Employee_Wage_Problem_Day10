@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EmployeeWage_UC3_Day9
+namespace EmployeeWage_UC3_Day10
 {
     class Program
     {
