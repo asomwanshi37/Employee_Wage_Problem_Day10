@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EmployeeWage_UC6_Day9
+namespace EmployeeWage_UC6_Day10
 {
     class EmpWageUC6
     {
